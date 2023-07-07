@@ -1,5 +1,5 @@
-[![MasterHead](https://media0.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif?cid=ecf05e47pz00u6ssl8q6zu6bkrlqze6c65akuxajkiiy5v3r&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+<img width="1000" height="400" align="center" src="https://media0.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif?cid=ecf05e47pz00u6ssl8q6zu6bkrlqze6c65akuxajkiiy5v3r&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<hr/>
 <h1 align="center">Hi 👋, I'm Mehmet Bayraktar</h1>
 <h3 align="center">A passionate developer from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/PtdOBG0BD9Vvi/giphy.gif?cid=ecf05e47lapq6uhpkgxxdcum4xscrqc31fcd90uaf9w2z204&ep=v1_gifs_search&rid=giphy.gif&ct=g">
