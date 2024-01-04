@@ -3,15 +3,13 @@
 <h1 align="center">Hi 👋, I'm Mehmet Bayraktar</h1>
 <h3 align="center">A passionate developer from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/PtdOBG0BD9Vvi/giphy.gif?cid=ecf05e47lapq6uhpkgxxdcum4xscrqc31fcd90uaf9w2z204&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-- 🔭 I’m currently working in Sigma Aeronautics
+- 🔭 I’m currently working for ?
 
-- 🌱 I’m currently learning **Ardupilot - Objectivec**
-
-- 👯 I’m looking to collaborate on **Machine learning**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **mehmet.byrktr56@gmail.com**
 
-- ⚡ Fun fact: **I've never touched the grass**
+- ⚡ Fun fact: **there is no funfact about me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
