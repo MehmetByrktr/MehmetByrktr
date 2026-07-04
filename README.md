@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/PtdOBG0BD9Vvi/giphy.gif?cid=ecf05e47lapq6uhpkgxxdcum4xscrqc31fcd90uaf9w2z204&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working for ?
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning ****
 
-- 📫 How to reach me **mehmet.byrktr56@gmail.com**
+- 📫 How to reach me **mehmetbayraktarr03@gmail.com**
 
 - ⚡ Fun fact: **there is no funfact about me**
 
