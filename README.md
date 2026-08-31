@@ -225,7 +225,6 @@ Artificial Intelligence
 
 </div>
 
----
 
 <div align="center">
 
