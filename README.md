@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -25,104 +24,6 @@ My interests lie at the intersection of:
 
 I enjoy developing end-to-end engineering projects — from sensor data and machine communication to AI inference, backend services, dashboards and robotic simulation.
 
----
-
-## 🚀 Featured Projects
-
-### 🛡️ Sentinel Edge AI Safety
-
-**Privacy-first Edge AI platform for industrial workplace safety monitoring.**
-
-Real-time computer vision system designed to process camera streams locally without requiring video data to leave the facility.
-
-**Highlights**
-
-`Python` · `YOLO` · `ONNX` · `TensorRT` · `FastAPI` · `MQTT` · `WebSockets` · `Docker`
-
-* Real-time PPE and safety violation detection
-* Restricted-zone monitoring
-* Human & vehicle tracking
-* Collision-risk estimation
-* Local event recording and evidence capture
-* Model calibration and model registry
-* Digital twin safety dashboard
-* Edge-first architecture
-
-🔗 [View Project](https://github.com/MehmetByrktr/sentinel-edge-ai-safety)
-
----
-
-### 🏭 Smart Factory Digital Twin
-
-**Industrial IoT Digital Twin platform for real-time factory monitoring.**
-
-A complete telemetry pipeline that simulates industrial machines, streams sensor data through MQTT, stores it in PostgreSQL and provides real-time machine monitoring through a web dashboard.
-
-**Architecture**
-
-```text
-Machine / Sensor Simulator
-          ↓
-        MQTT
-          ↓
-      FastAPI
-          ↓
-     PostgreSQL
-          ↓
- Live Monitoring Dashboard
-```
-
-**Tech Stack**
-
-`Python` · `FastAPI` · `MQTT` · `PostgreSQL` · `Docker` · `SQLAlchemy` · `Chart.js`
-
-🔗 [View Project](https://github.com/MehmetByrktr/smart-factory-digital-twin)
-
----
-
-### 🤖 Robotic Arm URDF
-
-**CAD-to-ROS robotic arm simulation project.**
-
-A robotic arm designed in **SolidWorks** and transferred into the ROS ecosystem using URDF for visualization and simulation.
-
-**Tech Stack**
-
-`ROS` · `URDF` · `Gazebo` · `RViz` · `Catkin` · `SolidWorks` · `XML` · `YAML`
-
-The project provides a foundation for:
-
-* Forward & inverse kinematics
-* Motion planning
-* Robot controllers
-* Gazebo simulation
-* MoveIt integration
-* Physical robot synchronization
-
-🔗 [View Project](https://github.com/MehmetByrktr/Robotic_arm_udrf)
-
----
-
-### 📊 Telco Customer Churn ML
-
-End-to-end machine learning project for predicting customer churn using structured telecom data.
-
-Implemented:
-
-* Data preprocessing pipelines
-* Feature engineering & selection
-* Logistic Regression
-* K-Nearest Neighbors
-* Decision Trees
-* Random Forest
-* Cross-validation
-* GridSearchCV
-* Model evaluation
-* Feature importance analysis
-
-🔗 [View Project](https://github.com/MehmetByrktr/telco-churn-ml-project)
-
----
 
 ## 🧰 Tech Stack
 
@@ -178,7 +79,6 @@ Implemented:
 
 </p>
 
----
 
 ## 🎯 Current Focus
 
@@ -205,7 +105,6 @@ Artificial Intelligence
    └── Intelligent Engineering Systems
 ```
 
----
 
 ## 🤝 Connect With Me
 
