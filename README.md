@@ -23,7 +23,8 @@ My interests lie at the intersection of:
 * 💻 **Backend & Engineering Software Development**
 
 I enjoy developing end-to-end engineering projects — from sensor data and machine communication to AI inference, backend services, dashboards and robotic simulation.
-</n>
+
+
 
 ## 🧰 Tech Stack
 
