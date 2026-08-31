@@ -1,50 +1,248 @@
 <div align="center">
-  
-  <a href="https://github.com/MehmetByrktr">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20Mehmet%20Bayraktar%20%F0%9F%91%8B;Mechatronics%20Engineer%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=50&color=FF4D2D&vCenter=true&size=24" alt="Typing Header" />
-  </a>
-  
-  
-  <p align="center">
-    <a href="https://github.com/MehmetByrktr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://linkedin.com/in/mehmet-bayraktar-b50002226"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://twitter.com/mehmetbayrktr0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> <a href="https://mehmetbayraktar.onrender.com/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
-  </p>
+
+# Hi, I'm Mehmet Bayraktar 👋
+
+### Mechatronics Engineering | Robotics • Edge AI • Industrial IoT • Machine Learning
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+for+the+physical+world;Robotics+%7C+Industrial+AI+%7C+Digital+Twins;Turning+engineering+ideas+into+working+systems" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
-Mechatronics Engineering student focused on embedded systems, AI, IoT, and automation. I enjoy building end-to-end projects that connect hardware, software, and intelligent systems.
+## 👨‍💻 About Me
 
-- 🔭 **Currently Working On:** [Edge Ai](https://github.com/MehmetByrktr/sentinel-edge-ai-safety)
-- 🌱 **Learning & Exploring:** Machine Learning, Embedded Systems, IoT & AI Applications
-- 👯 **Open For Collaboration:** AI, IoT, Embedded Systems & Automation Projects
-- 💬 **Ask Me About:** Python, AI/ML, IoT, Embedded Systems, Automation & Digital Twins
+I'm a **Mechatronics Engineering student at Yıldız Technical University** focused on building intelligent systems that connect **software, artificial intelligence, robotics and physical machines**.
+
+My interests lie at the intersection of:
+
+* 🤖 **Robotics & Autonomous Systems**
+* 🧠 **Artificial Intelligence & Computer Vision**
+* 🏭 **Industrial IoT & Digital Twin Systems**
+* ⚙️ **Embedded Systems & Automation**
+* 📊 **Machine Learning & Data Science**
+* 💻 **Backend & Engineering Software Development**
+
+I enjoy developing end-to-end engineering projects — from sensor data and machine communication to AI inference, backend services, dashboards and robotic simulation.
 
 ---
 
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-</p>
+## 🚀 Featured Projects
 
+### 🛡️ Sentinel Edge AI Safety
+
+**Privacy-first Edge AI platform for industrial workplace safety monitoring.**
+
+Real-time computer vision system designed to process camera streams locally without requiring video data to leave the facility.
+
+**Highlights**
+
+`Python` · `YOLO` · `ONNX` · `TensorRT` · `FastAPI` · `MQTT` · `WebSockets` · `Docker`
+
+* Real-time PPE and safety violation detection
+* Restricted-zone monitoring
+* Human & vehicle tracking
+* Collision-risk estimation
+* Local event recording and evidence capture
+* Model calibration and model registry
+* Digital twin safety dashboard
+* Edge-first architecture
+
+🔗 [View Project](https://github.com/MehmetByrktr/sentinel-edge-ai-safety)
 
 ---
 
-### 📊 GitHub Analytics & Widgets
+### 🏭 Smart Factory Digital Twin
 
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MehmetByrktr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MehmetByrktr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+**Industrial IoT Digital Twin platform for real-time factory monitoring.**
+
+A complete telemetry pipeline that simulates industrial machines, streams sensor data through MQTT, stores it in PostgreSQL and provides real-time machine monitoring through a web dashboard.
+
+**Architecture**
+
+```text
+Machine / Sensor Simulator
+          ↓
+        MQTT
+          ↓
+      FastAPI
+          ↓
+     PostgreSQL
+          ↓
+ Live Monitoring Dashboard
+```
+
+**Tech Stack**
+
+`Python` · `FastAPI` · `MQTT` · `PostgreSQL` · `Docker` · `SQLAlchemy` · `Chart.js`
+
+🔗 [View Project](https://github.com/MehmetByrktr/smart-factory-digital-twin)
+
+---
+
+### 🤖 Robotic Arm URDF
+
+**CAD-to-ROS robotic arm simulation project.**
+
+A robotic arm designed in **SolidWorks** and transferred into the ROS ecosystem using URDF for visualization and simulation.
+
+**Tech Stack**
+
+`ROS` · `URDF` · `Gazebo` · `RViz` · `Catkin` · `SolidWorks` · `XML` · `YAML`
+
+The project provides a foundation for:
+
+* Forward & inverse kinematics
+* Motion planning
+* Robot controllers
+* Gazebo simulation
+* MoveIt integration
+* Physical robot synchronization
+
+🔗 [View Project](https://github.com/MehmetByrktr/Robotic_arm_udrf)
+
+---
+
+### 📊 Telco Customer Churn ML
+
+End-to-end machine learning project for predicting customer churn using structured telecom data.
+
+Implemented:
+
+* Data preprocessing pipelines
+* Feature engineering & selection
+* Logistic Regression
+* K-Nearest Neighbors
+* Decision Trees
+* Random Forest
+* Cross-validation
+* GridSearchCV
+* Model evaluation
+* Feature importance analysis
+
+🔗 [View Project](https://github.com/MehmetByrktr/telco-churn-ml-project)
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,dart" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MehmetByrktr&theme=radical&hide_border=true" alt="GitHub Streak" />
+### 🤖 Robotics & Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/URDF-Robotics-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SolidWorks-DA1F26?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehmetByrktr&theme=react-dark" alt="Activity Graph" />
+### 🧠 AI & Computer Vision
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+### 🌐 Backend & Data
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql,docker" />
+
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
+
 </p>
+
+### 📱 Web & Application Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,html,css,git,github" />
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Robotics
+   ├── ROS & Robot Simulation
+   ├── Motion Planning
+   └── Autonomous Systems
+
+Industrial AI
+   ├── Computer Vision
+   ├── Edge AI
+   └── Predictive Systems
+
+Industry 4.0
+   ├── Industrial IoT
+   ├── Digital Twins
+   ├── MQTT
+   └── Smart Manufacturing
+
+Artificial Intelligence
+   ├── Machine Learning
+   ├── Computer Vision
+   └── Intelligent Engineering Systems
+```
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MehmetByrktr&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetByrktr&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mehmet-bayraktar-b50002226/">
+<img src="https://img.shields.io/badge/LinkedIn-Mehmet%20Bayraktar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mehmet.byrktr56@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MehmetByrktr">
+<img src="https://img.shields.io/badge/GitHub-MehmetByrktr-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙️ Engineering the connection between the physical and digital worlds.
+
+**Robotics • Artificial Intelligence • Embedded Systems • Industry 4.0**
+
+</div>
