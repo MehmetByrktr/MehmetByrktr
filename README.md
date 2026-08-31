@@ -24,7 +24,7 @@ My interests lie at the intersection of:
 
 I enjoy developing end-to-end engineering projects — from sensor data and machine communication to AI inference, backend services, dashboards and robotic simulation.
 
-
+<br>
 
 ## 🧰 Tech Stack
 
@@ -80,6 +80,7 @@ I enjoy developing end-to-end engineering projects — from sensor data and mach
 
 </p>
 
+<br>
 
 ## 🎯 Current Focus
 
@@ -106,6 +107,7 @@ Artificial Intelligence
    └── Intelligent Engineering Systems
 ```
 
+<br>
 
 ## 🤝 Connect With Me
 
